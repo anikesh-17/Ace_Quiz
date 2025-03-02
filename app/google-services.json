@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107055776725",
+    "project_id": "ace-quiz-17",
+    "storage_bucket": "ace-quiz-17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107055776725:android:02afa7fa584d013dc4335c",
+        "android_client_info": {
+          "package_name": "com.anikesh.acequiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHcd-aPE3wxa_yY3LkaJbPPz6ENBkuWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
